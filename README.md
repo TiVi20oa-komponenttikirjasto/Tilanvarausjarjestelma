@@ -1,9 +1,6 @@
 # Tilanvarausjarjestelma
 Kaikkien tilojen varaamiseen ja vuokraamiseen
 
-# Tilanvarausjärjestelmä kaikkien tilojen varaamiseen/vuokraamiseen.
-Wikissä on käyttöohjeet ja ohjeita ohjelmistokehittäjälle, sovelluksen jatkokehitystä varten.
-
 ## Tilanvarausjärjestelmän toiminta
 Järjestelmän tarkoituksena on tarjota käyttäjäille tilanvarausjärjestelmä, jonka kautta voidaan varata/vuokrata tiloja yksityisiltä ja julkisilta toimijoilta. Käyttäjä näkee vapaana olevat tilat ja pystyy valitsemaan niistä itselle parhaan sopivan vaihtoehdon. Käyttäjä näkee myös, jos tilat ovat varatut, jotta ei pysty varaamaan/vuokraamaan päällekkäin tilaa muiden käyttäjien kanssa. Peruskäyttäjät näkee myös kaikki omat varaukset ja ajankohdat varauksille ja näin ollen pystyy myös muokkaamaan ja peruttamaan niitä. Käyttäjä näkee myös tilojen koot ja pystyy valitsemaan itselleen tilan, jossa järjestää tilaisuus tietylle henkilömäärälle.
 
